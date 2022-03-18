@@ -1,0 +1,1821 @@
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [512] lines
+INFO:root:White_list file was read. [17] lines
+INFO:root:langs=['en', 'pt', 'es']
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+INFO:tweepy.streaming:Stream connected
+INFO:root:
+====================================================
+INFO:root:[00:10:35] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455009325064327182
+Original: 'leva, geni, é inegável. #palindromo'
+
+INFO:root:pal = >> ·leva, geni, é inegável.· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455009325064327182
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"leva, geni, é inegável."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'leva geni e inegavel'
+INFO:root:====================================================
+
+INFO:root:Adding 'leva geni e inegavel' to seems
+INFO:root:Adding 'no cojo con' to seems
+INFO:root:Adding 'semanames' to seems
+INFO:root:Adding 'taco cat' to seems
+INFO:root:
+====================================================
+INFO:root:[00:21:15] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455012007300771841
+Original: 'óleo de peroba, sabor é pé do elo. #palindromo'
+
+INFO:root:pal = >> ·óleo de peroba, sabor é pé do elo.· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455012007300771841
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"óleo de peroba, sabor é pé do elo."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'oleo de peroba sabor e pe do elo'
+INFO:root:====================================================
+
+INFO:root:Adding 'oleo de peroba sabor e pe do elo' to seems
+INFO:root:
+====================================================
+INFO:root:[00:24:24] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455012801668395010
+Original: 'a fome se mofa. #palindromo'
+
+INFO:root:pal = >> ·a fome se mofa.· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455012801668395010
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"a fome se mofa."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a fome se mofa'
+INFO:root:====================================================
+
+INFO:root:Adding 'a fome se mofa' to seems
+INFO:root:Adding 'semana mes' to seems
+INFO:root:Adding 'imaniinami' to seems
+INFO:root:
+====================================================
+INFO:root:[00:44:29] Author id: PoxaAnna_07 Name: Carolzinha🌺
+INFO:root:id: 1455017855699853317
+Original: 'Atenção é o mínimo do mínimo kkkkkk'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/PoxaAnna_07/status/1455017855699853317
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o mínimo do mínimo"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:Adding 'tony not' to seems
+INFO:root:Adding 'peep lilpeep' to seems
+INFO:root:
+====================================================
+INFO:root:[00:55:07] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455020530915057666
+Original: 'a grama é amarga. #palindromo'
+
+INFO:root:pal = >> ·a grama é amarga.· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455020530915057666
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"a grama é amarga."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a grama e amarga'
+INFO:root:====================================================
+
+INFO:root:Adding 'a grama e amarga' to seems
+INFO:root:
+====================================================
+INFO:root:[01:01:37] Author id: Robert37Krause Name: Robert
+INFO:root:id: 1455022166106329090
+Original: '@andrew_wiebe @IMCFTraveller IMO Johnston is coming in trying to set up his position as perpendicular to the post, ball in front. as it is a 50/50 ball wouldn’t physical contact that impedes the establishment of said positioning be considered a foul? Dike’s hadn’t yet claimed sole possession either.'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Robert37Krause/status/1455022166106329090
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"as it is a"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[01:05:26] Author id: alaninstituc Name: alanlinares.institucional
+INFO:root:id: 1455023128871149576
+Original: '•
+•
+•
+Fora, Boro !
+•
+•
+•
+•(01/11/2021)•
+•
+•
+•
+É, SIR CRISE ! 
+ACOLÁ O2, G2O...
+À MIL CLIMA.
+O2, G2O ALOCA...
+É SIR CRISE !
+•
+•
+•
+(Yannis Mykonos)
+•
+•
+•
+•
+•
+@alaninstituc
+#palindromo 
+#PALÍNDROMOS 
+•
+•
+•'
+
+INFO:root:pal = >> ·É, SIR CRISE ! 
+ACOLÁ O2, G2O...
+À MIL CLIMA.
+O2, G2O ALOCA...
+É SIR CRISE !
+•· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/alaninstituc/status/1455023128871149576
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"É, SIR CRISE ! 
+ACOLÁ O2, G2O...
+À MIL CLIMA.
+O2, G2O ALOCA...
+É SIR CRISE !
+•"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e sir crise acola o2 g2o a mil clima o2 g2o aloca e sir crise'
+INFO:root:====================================================
+
+INFO:root:Adding 'e sir crise' to seems
+INFO:root:Adding 'e sir crise acola o2 g2o a mil clima o2 g2o aloca e sir crise' to seems
+INFO:root:Adding 'evilive' to seems
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [526] lines
+INFO:root:White_list file was read. [19] lines
+INFO:root:langs=['en', 'pt', 'es']
+INFO:tweepy.streaming:Stream connected
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+ERROR:tweepy.streaming:Stream encountered HTTP error: 420
+INFO:tweepy.streaming:Stream connected
+INFO:root:Adding 'racecar' to seems
+INFO:root:Adding 'niarfeefrain' to seems
+INFO:root:Adding 'goldeen need log' to seems
+INFO:root:Adding 'yes nah chansey' to seems
+INFO:root:Adding 'son 7nos' to seems
+INFO:root:
+====================================================
+INFO:root:[02:50:53] Author id: Cebola_PH29 Name: Cebola PH29🇺🇲
+INFO:root:id: 1455049667092287491
+Original: 'Pra mim o mínimo do mínimo é dar meu máximo…'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Cebola_PH29/status/1455049667092287491
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o mínimo do mínimo"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+ERROR:root:Error creating API
+Traceback (most recent call last):
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.9/socket.py", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 382, in _make_request
+    self._validate_conn(conn)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1010, in _validate_conn
+    conn.connect()
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/connection.py", line 358, in connect
+    conn = self._new_conn()
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7fd98e262c40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/account/verify_credentials.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd98e262c40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 216, in request
+    resp = self.session.request(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/account/verify_credentials.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd98e262c40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/media/Storage/Projetos/palindrobot/bots/config.py", line 35, in create_api
+    api.verify_credentials()
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 46, in wrapper
+    return method(*args, **kwargs)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 2570, in verify_credentials
+    return self.request(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 222, in request
+    raise TweepyException(f'Failed to send request: {e}').with_traceback(sys.exc_info()[2])
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 216, in request
+    resp = self.session.request(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+tweepy.errors.TweepyException: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/account/verify_credentials.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd98e262c40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [531] lines
+INFO:root:White_list file was read. [19] lines
+INFO:root:langs=['en', 'pt', 'es']
+INFO:tweepy.streaming:Stream connected
+INFO:root:Adding 'nkanduudnakn' to seems
+INFO:root:Adding 'was i saw' to seems
+INFO:root:Adding 'rentner' to seems
+INFO:root:Adding 'omar ramo' to seems
+INFO:root:Adding 'a rever a' to seems
+INFO:root:Adding 'nowhannahwon' to seems
+INFO:root:
+====================================================
+INFO:root:[15:52:11] Author id: stemifyai Name: Stemify
+INFO:root:id: 1455246286446268423
+Original: 'If you multiply 111,111,111 × 111,111,111 you get 12,345,678,987,654,321 - a palindrome number that reads the same forwards or backwards. And that works all the way back down to 1 x 1 (1), try it for yourself!
+
+#mathmonday #palindrome #multiplication #stemeducation #stemify'
+
+INFO:root:pal = >> ·12,345,678,987,654,321 -· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/stemifyai/status/1455246286446268423
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"12,345,678,987,654,321 -"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = '12 345 678 987 654 321'
+INFO:root:====================================================
+
+INFO:root:Adding '12 345 678 987 654 321' to seems
+INFO:root:Adding 't revert' to seems
+INFO:root:Adding 'alekahakela' to seems
+INFO:root:Adding 'no se son' to seems
+INFO:root:
+====================================================
+INFO:root:[15:59:50] Author id: pdromeprompt Name: Jeremy writes palindromes
+INFO:root:id: 1455248209320857606
+Original: 'New palindrome for anyone like me who hasn’t had a dental cleaning since the pandemic started!:
+
+Pus! “Must sit, Ned. Swell is not a tonsil,” Lew’s dentist sums up.
+
+#Blog
+#FolloForFolloBack  @cosyblogclub @BBlogRT #BBlogRT @BloggersHut #BloggersHutRT @USBloggerRT @GoldenBloggerz'
+
+INFO:root:pal = >> ·Pus! “Must sit, Ned. Swell is not a tonsil,” Lew’s dentist sums up.· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/pdromeprompt/status/1455248209320857606
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"Pus! “Must sit, Ned. Swell is not a tonsil,” Lew’s dentist sums up."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'pus must sit ned swell is not a tonsil lews dentist sums up'
+INFO:root:====================================================
+
+INFO:root:Adding 'pus must sit ned swell is not a tonsil lews dentist sums up' to seems
+INFO:root:Adding 'mloclammalcolm' to seems
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+INFO:root:Adding 'nah khan' to seems
+INFO:root:
+====================================================
+INFO:root:[16:17:18] Author id: xtomlopesx Name: t̸̡̡̧͉̳̰͕̞͎̼̓ǒ̶̡̦̲̻̻͖̫m̸̢̗̭̙͔̦̟̰̾̏̚͝͝͠a̸̢͚̙̋̉ŝ̵
+INFO:root:id: 1455252604875943938
+Original: 'RT @OPalindromista: À MARGEM, O CARA COME GRAMA!
+#palindromo'
+
+INFO:root:pal = >> ·À MARGEM, O CARA COME GRAMA!· << [1500]
+
+ERROR:root:Error on like
+INFO:root:url: https://twitter.com/xtomlopesx/status/1455252604875943938
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"À MARGEM, O CARA COME GRAMA!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a margem o cara come grama'
+INFO:root:====================================================
+
+INFO:root:Adding 'a margem o cara come grama' to seems
+INFO:root:
+====================================================
+INFO:root:[16:20:27] Author id: Ur4Juan Name: J . J .⚽️🎶🇲🇽🇲🇽🇲🇽
+INFO:root:id: 1455253397721042957
+Original: '@atanacio1225 @MSEspinola @lopezdoriga Tu que estás chingue y chingue Joaquín, o se es o no sé es...o. sólo eres un hdlch con el presidente!!! pocos 🥚🥚🥚🥚🥚'
+
+INFO:root:pal = >> ·o se es o no sé es...o.· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Ur4Juan/status/1455253397721042957
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o se es o no sé es...o."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o se es o no se es o'
+INFO:root:====================================================
+
+INFO:root:Adding 'o se es o no se es o' to seems
+INFO:root:
+====================================================
+INFO:root:[16:22:13] Author id: OPalindromista Name: O Palindromista
+INFO:root:id: 1455253844963872785
+Original: 'SOM SOCRÁTICO NO CITAR COSMOS!
+#palindromo                   #ripNelsonFreire'
+
+INFO:root:pal = >> ·SOM SOCRÁTICO NO CITAR COSMOS!· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/OPalindromista/status/1455253844963872785
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"SOM SOCRÁTICO NO CITAR COSMOS!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'som socratico no citar cosmos'
+INFO:root:====================================================
+
+INFO:root:Adding 'som socratico no citar cosmos' to seems
+INFO:root:
+====================================================
+INFO:root:[16:33:45] Author id: marcosfaria70 Name: Marcos
+INFO:root:id: 1455256744033128450
+Original: '@OPalindromista O NAIPE DE PIANO
+#palindromo'
+
+INFO:root:pal = >> ·O NAIPE DE PIANO· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/marcosfaria70/status/1455256744033128450
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"O NAIPE DE PIANO"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o naipe de piano'
+INFO:root:====================================================
+
+INFO:root:Adding 'o naipe de piano' to seems
+INFO:root:Adding 's adidas' to seems
+INFO:root:Adding 'same mas' to seems
+INFO:root:Adding 'yo vivo y' to seems
+INFO:root:
+====================================================
+INFO:root:[16:40:26] Author id: marcosfaria70 Name: Marcos
+INFO:root:id: 1455258429489127429
+Original: '@OPalindromista E NELSON NOS LÊ, NÉ?
+#palindromo'
+
+INFO:root:pal = >> ·E NELSON NOS LÊ, NÉ?· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/marcosfaria70/status/1455258429489127429
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"E NELSON NOS LÊ, NÉ?"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e nelson nos le ne'
+INFO:root:====================================================
+
+INFO:root:Adding 'e nelson nos le ne' to seems
+INFO:root:
+====================================================
+INFO:root:[16:42:34] Author id: OPalindromista Name: O Palindromista
+INFO:root:id: 1455258962954264586
+Original: '@marcosfaria70 O @gustavo_menezes tem um parecido que gosto muito:
+
+MELÃO: NELSON NOS LÊ NO ALÉM!
+#palindromo'
+
+INFO:root:pal = >> ·MELÃO: NELSON NOS LÊ NO ALÉM!· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/OPalindromista/status/1455258962954264586
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"MELÃO: NELSON NOS LÊ NO ALÉM!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'melao nelson nos le no alem'
+INFO:root:====================================================
+
+INFO:root:Adding 'melao nelson nos le no alem' to seems
+INFO:root:
+====================================================
+INFO:root:[16:43:03] Author id: 226press Name: 226 Press
+INFO:root:id: 1455259087298498562
+Original: 'RT @Anthony_Etherin: THE CITY (Palindrome-Haiku)
+
+Go flat, urbanised....
+A cradle here held arcades
+in a brutal fog.'
+
+INFO:root:pal = >> ·Go flat, urbanised....
+A cradle here held arcades
+in a brutal fog.· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/226press/status/1455259087298498562
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"Go flat, urbanised....
+A cradle here held arcades
+in a brutal fog."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'go flat urbanised a cradle here held arcadesin a brutal fog'
+INFO:root:====================================================
+
+INFO:root:Adding 'go flat urbanised a cradle here held arcadesin a brutal fog' to seems
+INFO:root:Adding 'won i now' to seems
+INFO:root:
+====================================================
+INFO:root:[16:47:25] Author id: OPalindromista Name: O Palindromista
+INFO:root:id: 1455260185442889740
+Original: '@Ricardo_Nascim @caboquisse1 RAZÃO DERA MANO NA MARÉ DO AZAR!
+#palindromo'
+
+INFO:root:pal = >> ·RAZÃO DERA MANO NA MARÉ DO AZAR!· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/OPalindromista/status/1455260185442889740
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"RAZÃO DERA MANO NA MARÉ DO AZAR!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'razao dera mano na mare do azar'
+INFO:root:====================================================
+
+INFO:root:Adding 'razao dera mano na mare do azar' to seems
+INFO:root:Adding 'korinnirok' to seems
+INFO:root:
+====================================================
+INFO:root:[17:02:52] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455264075232038914
+Original: 'é zero a zero: reza, ore, zé! #palindromo'
+
+INFO:root:pal = >> ·é zero a zero: reza, ore, zé!· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455264075232038914
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"é zero a zero: reza, ore, zé!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e zero a zero reza ore ze'
+INFO:root:====================================================
+
+INFO:root:Adding 'e zero a zero reza ore ze' to seems
+INFO:root:
+====================================================
+INFO:root:[17:05:25] Author id: marcosfaria70 Name: Marcos
+INFO:root:id: 1455264716293656582
+Original: '@OPalindromista @gustavo_menezes UÉ! CODA LUZA! O NELSON, O NAIPE DE PIANO, NOS LÊ NO AZULADO CÉU.
+#palindromo'
+
+INFO:root:pal = >> ·UÉ! CODA LUZA! O NELSON, O NAIPE DE PIANO, NOS LÊ NO AZULADO CÉU.· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/marcosfaria70/status/1455264716293656582
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"UÉ! CODA LUZA! O NELSON, O NAIPE DE PIANO, NOS LÊ NO AZULADO CÉU."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'ue coda luza o nelson o naipe de piano nos le no azulado ceu'
+INFO:root:====================================================
+
+INFO:root:Adding 'ue coda luza o nelson o naipe de piano nos le no azulado ceu' to seems
+INFO:root:Adding 'yeh they' to seems
+INFO:root:Adding 'sao boas' to seems
+INFO:root:Adding 'se vives' to seems
+INFO:root:Adding 'roses or' to seems
+INFO:root:
+====================================================
+INFO:root:[17:27:49] Author id: mickaellyrs Name: m✨
+INFO:root:id: 1455270352049877001
+Original: 'Pra mim o mínimo do mínimo é dar meu máximo…🗣'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/mickaellyrs/status/1455270352049877001
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o mínimo do mínimo"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[17:29:40] Author id: marcosfaria70 Name: Marcos
+INFO:root:id: 1455270819966377984
+Original: 'AÍ VARIE CRETA, É A TERCEIRA VIA.
+#palindromo'
+
+INFO:root:pal = >> ·AÍ VARIE CRETA, É A TERCEIRA VIA.· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/marcosfaria70/status/1455270819966377984
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"AÍ VARIE CRETA, É A TERCEIRA VIA."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'ai varie creta e a terceira via'
+INFO:root:====================================================
+
+INFO:root:Adding 'ai varie creta e a terceira via' to seems
+INFO:root:
+====================================================
+INFO:root:[17:30:55] Author id: se_fuder_ Name: chefe dela7
+INFO:root:id: 1455271133897445385
+Original: 'Pra mim o mínimo do mínimo e da meu máximo'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/se_fuder_/status/1455271133897445385
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o mínimo do mínimo"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[17:31:09] Author id: DeAraujoAndre Name: andre araujo
+INFO:root:id: 1455271190126374914
+Original: '@marcosfaria70 Aí varie. Crê! Tal a terceira via. #palindromo'
+
+INFO:root:pal = >> ·Aí varie. Crê! Tal a terceira via.· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/DeAraujoAndre/status/1455271190126374914
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"Aí varie. Crê! Tal a terceira via."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'ai varie cre tal a terceira via'
+INFO:root:====================================================
+
+INFO:root:Adding 'ai varie cre tal a terceira via' to seems
+INFO:root:
+====================================================
+INFO:root:[17:40:13] Author id: CarlDennisHowa1 Name: Carl Dennis Howard Roberts
+INFO:root:id: 1455273471508992002
+Original: '@RammyReiman I really think I'm definitely right in respect to what I said but if you check on solar system scope like I said you will get all the information you require to what is in your location right now and 10 years time and I'm not joking as it is a bloody good app'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/CarlDennisHowa1/status/1455273471508992002
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"as it is a"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[17:41:40] Author id: RafaNunnes2020 Name: Abençoada 💕
+INFO:root:id: 1455273837835264008
+Original: 'Pra mim o mínimo do mínimo é dar meu máximo…🗣'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/RafaNunnes2020/status/1455273837835264008
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o mínimo do mínimo"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:Adding 'oleiccielo' to seems
+INFO:root:Adding 'an eilien a' to seems
+INFO:root:Adding 'oyeme yo' to seems
+INFO:root:Adding 'esa nina se' to seems
+INFO:root:
+====================================================
+INFO:root:[18:04:01] Author id: jfabioqb Name: FabioBrito
+INFO:root:id: 1455279461906194434
+Original: 'RT @OPalindromista: O LODO NO ‘TIMES’: É ‘MITO’ NO DOLO!                    #palindromo #ImpeachmentBolsonaroUrgente 
+ https://t.co/RntVZhv…'
+
+INFO:root:pal = >> ·O LODO NO ‘TIMES’: É ‘MITO’ NO DOLO!· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/jfabioqb/status/1455279461906194434
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"O LODO NO ‘TIMES’: É ‘MITO’ NO DOLO!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o lodo no times e mito no dolo'
+INFO:root:====================================================
+
+INFO:root:Adding 'o lodo no times e mito no dolo' to seems
+INFO:root:Adding 'oi e veio' to seems
+INFO:root:
+====================================================
+INFO:root:[18:57:32] Author id: Big_Leaf Name: SF Palindrome Fantasy
+INFO:root:id: 1455292930898288645
+Original: 'RT @raynfranklin: #Palindrome Tips: If you like to emphasize symmetry with repeated letters: Galilee eel I lag (4xE), Krav D. "Raa aardvark…'
+
+INFO:root:pal = >> ·Galilee eel I lag (· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Big_Leaf/status/1455292930898288645
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"Galilee eel I lag ("
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'galilee eel i lag'
+INFO:root:pal = >> ·Krav D. "Raa aardvark…· << [1400]
+
+ERROR:root:Error on like
+INFO:root:url: https://twitter.com/Big_Leaf/status/1455292930898288645
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"Krav D. "Raa aardvark…"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'krav d raa aardvark'
+INFO:root:====================================================
+
+INFO:root:Adding 'galilee eel i lag' to seems
+INFO:root:Adding 'krav d raa aardvark' to seems
+INFO:root:
+====================================================
+INFO:root:[18:57:36] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455292946807459842
+Original: 'ué, sumo no museu! #palindromo'
+
+INFO:root:pal = >> ·ué, sumo no museu!· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455292946807459842
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"ué, sumo no museu!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'ue sumo no museu'
+INFO:root:====================================================
+
+INFO:root:Adding 'ue sumo no museu' to seems
+INFO:root:
+====================================================
+INFO:root:[19:03:59] Author id: RommelGirao Name: Rommel 🇧🇷🚩🚩🚩
+INFO:root:id: 1455294555436240901
+Original: '@OPalindromista Nos lê na sua prática. Amar tecla era realce. Trama a citar pausa, Nelson.
+#palindromo'
+
+INFO:root:pal = >> ·Nos lê na sua prática. Amar tecla era realce. Trama a citar pausa, Nelson.· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/RommelGirao/status/1455294555436240901
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"Nos lê na sua prática. Amar tecla era realce. Trama a citar pausa, Nelson."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'nos le na sua pratica amar tecla era realce trama a citar pausa nelson'
+INFO:root:====================================================
+
+INFO:root:Adding 'nos le na sua pratica amar tecla era realce trama a citar pausa nelson' to seems
+INFO:root:Adding 'smoomier reimooms' to seems
+INFO:root:Adding 'ela fale' to seems
+INFO:root:Adding 'son anos' to seems
+INFO:root:
+====================================================
+INFO:root:[19:28:05] Author id: AbigailBCross Name: Abigail B Cross 🍂🎃🔥🕯
+INFO:root:id: 1455300617170206721
+Original: '@chelleevellee73 @elonmusk Aww shucks, you've made me gushy 🥰
+A lot of people adore @elonmusk because he's open and isn't afraid to show his vulnerable side. I greatly admire that, especially in a man. I have had some moments with uncomfortable feeling when people think its ok to ask him outright about...'
+
+INFO:root:pal = >> ·in a man. I· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/AbigailBCross/status/1455300617170206721
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"in a man. I"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'in a man i'
+INFO:root:====================================================
+
+INFO:root:Adding 'in a man i' to seems
+INFO:root:Adding 'evil ive' to seems
+INFO:root:
+====================================================
+INFO:root:[19:30:50] Author id: OPalindromista Name: O Palindromista
+INFO:root:id: 1455301310513913873
+Original: 'RT @OPalindromista: O MÍSSIL É BELÍSSIMO!
+#palindromo 
+Aqui talvez o gol mais bonito de todos os tempos, de Everton do Atlético Mineiro con…'
+
+INFO:root:pal = >> ·O MÍSSIL É BELÍSSIMO!· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/OPalindromista/status/1455301310513913873
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"O MÍSSIL É BELÍSSIMO!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o missil e belissimo'
+INFO:root:====================================================
+
+INFO:root:Adding 'o missil e belissimo' to seems
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+INFO:root:Adding 'ian101nai' to seems
+INFO:root:
+====================================================
+INFO:root:[19:37:36] Author id: pdromeprompt Name: Jeremy writes palindromes
+INFO:root:id: 1455303013887881221
+Original: 'Wrote a new palindrome!:
+
+Not a lot, sip a tad, Elle;  Bernadette, lemonade! Garner one, two. 
+No, got no home, mad, etc.—er, I'd say no pony. 
+As directed, a memo, hon: “to go now, (tenor enraged) an omelette!" 
+Dan rebelled at a pistol, a ton.'
+
+INFO:root:pal = >> ·Not a lot, sip a tad, Elle;  Bernadette, lemonade! Garner one, two. 
+No, got no home, mad, etc.—er, I'd say no pony. 
+As directed, a memo, hon: “to go now, (tenor enraged) an omelette!" 
+Dan rebelled at a pistol, a ton.· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/pdromeprompt/status/1455303013887881221
+ERROR:root:Error on quote retweet
+Traceback (most recent call last):
+  File "/media/Storage/Projetos/palindrobot/bots/retweet.py", line 102, in quote_retweet
+    self.api.update_status(text, attachment_url=url)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 46, in wrapper
+    return method(*args, **kwargs)
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 1121, in update_status
+    return self.request(
+  File "/media/Storage/Projetos/palindrobot/venv/lib/python3.9/site-packages/tweepy/api.py", line 259, in request
+    raise Forbidden(resp)
+tweepy.errors.Forbidden: 403 Forbidden
+186 - Tweet needs to be a bit shorter.
+INFO:root:====================================================
+
+INFO:root:Adding 'not a lot sip a tad elle bernadette lemonade garner one two no got no home mad etc er id say no pony as directed a memo hon to go now tenor enraged an omelettedan rebelled at a pistol a ton' to seems
+INFO:root:Adding 'live evil' to seems
+INFO:root:Adding '9260629' to seems
+INFO:root:Adding 'aleirariela' to seems
+INFO:root:Adding 'potstop' to seems
+INFO:root:
+====================================================
+INFO:root:[20:22:43] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455314369424859145
+Original: 'o volume êmulo, vó. #palindromo'
+
+INFO:root:pal = >> ·o volume êmulo, vó.· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455314369424859145
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o volume êmulo, vó."
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o volume emulo vo'
+INFO:root:====================================================
+
+INFO:root:Adding 'o volume emulo vo' to seems
+INFO:root:
+====================================================
+INFO:root:[20:26:08] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455315227151675395
+Original: 'ada, no peixe mexi e pô, nada! #palindromo'
+
+INFO:root:pal = >> ·ada, no peixe mexi e pô, nada!· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455315227151675395
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"ada, no peixe mexi e pô, nada!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'ada no peixe mexi e po nada'
+INFO:root:====================================================
+
+INFO:root:Adding 'ada no peixe mexi e po nada' to seems
+INFO:root:Adding 'tamirrimat' to seems
+INFO:root:Adding 'aicrummurcia' to seems
+INFO:root:Adding 'o cagaco' to seems
+INFO:root:Adding 'dam0nn0mad' to seems
+INFO:root:Adding 'moca com' to seems
+INFO:root:Adding 'now i won' to seems
+INFO:root:Adding 's civics' to seems
+INFO:root:Adding 'ai em meia' to seems
+INFO:root:Adding 'eso yo se' to seems
+INFO:root:
+====================================================
+INFO:root:[21:30:44] Author id: ysabellahazan Name: YsabellaHazan
+INFO:root:id: 1455331482772426755
+Original: 'On this #mizrahiheritagemonth
+let’s ask ourselves how Mizrahi Jews got to other lands and why we left. 
+As much as it is a celebration it is also a memorial.'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/ysabellahazan/status/1455331482772426755
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"as it is a"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[21:46:31] Author id: AntonioMarcioPN Name: Antônio Márcio P N
+INFO:root:id: 1455335457013837831
+Original: 'A VÓ NA LIVE! É VILA NOVA!
+#palindromo'
+
+INFO:root:pal = >> ·A VÓ NA LIVE! É VILA NOVA!· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/AntonioMarcioPN/status/1455335457013837831
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"A VÓ NA LIVE! É VILA NOVA!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a vo na live e vila nova'
+INFO:root:====================================================
+
+INFO:root:Adding 'a vo na live e vila nova' to seems
+INFO:root:
+====================================================
+INFO:root:[21:47:46] Author id: larafalia Name: rafa
+INFO:root:id: 1455335769824956418
+Original: 'o meu eu emo fumante usuária de derby com 13 anos de idade tá GRITANDO agora eu preciso desse show'
+
+INFO:root:pal = >> ·o meu eu emo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/larafalia/status/1455335769824956418
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"o meu eu emo"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o meu eu emo'
+INFO:root:====================================================
+
+INFO:root:Adding 'o meu eu emo' to seems
+INFO:root:
+====================================================
+INFO:root:[21:55:55] Author id: Leosfera Name: Leosfera
+INFO:root:id: 1455337820307009540
+Original: 'e amar o bob? ora, mãe! #palindromo'
+
+INFO:root:pal = >> ·e amar o bob? ora, mãe!· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455337820307009540
+INFO:root:Encontrei um palindromo!
+I found a palindrome!
+
+"e amar o bob? ora, mãe!"
+
+#palindrobot
+
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e amar o bob ora mae'
+INFO:root:====================================================
+
+INFO:root:Adding 'e amar o bob ora mae' to seems
+INFO:root:Adding 'ocattaco' to seems
+INFO:root:Adding 'siege is' to seems
+INFO:root:Adding 'juliaiailuj' to seems
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [604] lines
+INFO:root:White_list file was read. [19] lines
+INFO:root:langs=['en', 'pt', 'es']
+INFO:tweepy.streaming:Stream connected
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [604] lines
+INFO:root:White_list file was read. [19] lines
+INFO:root:langs=['en', 'pt', 'es']
+INFO:tweepy.streaming:Stream connected
+INFO:root:Adding 'miese im' to seems
+INFO:root:
+====================================================
+INFO:root:[23:16:01] Author id: Leosfera Name: Leosfera
+INFO:root:Original: 'o abel é bão! #palindromo'
+
+INFO:root:pal = >> ·o abel é bão!· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455357978064965635
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o abel e bao'
+INFO:root:====================================================
+
+INFO:root:Adding 'o abel e bao' to seems
+INFO:root:
+====================================================
+INFO:root:[23:18:44] Author id: any_rosaa Name: Any Silvaa🔥🌪🌹🐭🐝
+INFO:root:Original: '@iam_Bad_Danny @mirellasierra_ Dynho só mostrou porque ele está com a Mirella, ela ama ele e ele ama o dinheiro e a blz dela só isso lamentável'
+
+INFO:root:pal = >> ·ama ele e ele ama· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/any_rosaa/status/1455358663120588804
+INFO:root:--- Retweeted ---
+INFO:root:id = 'ama ele e ele ama'
+INFO:root:====================================================
+
+INFO:root:Adding 'ama ele e ele ama' to seems
+INFO:root:
+====================================================
+INFO:root:[23:24:15] Author id: Leosfera Name: Leosfera
+INFO:root:Original: 'e pedir asilo, ó lisa? ri de pé! #palindromo'
+
+INFO:root:pal = >> ·e pedir asilo, ó lisa? ri de pé!· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455360050638303235
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e pedir asilo o lisa ri de pe'
+INFO:root:====================================================
+
+INFO:root:Adding 'e pedir asilo o lisa ri de pe' to seems
+INFO:root:
+====================================================
+INFO:root:[23:28:16] Author id: Leosfera Name: Leosfera
+INFO:root:Original: 'era pro mutreta ter tumor? pare! #palindromo'
+
+INFO:root:pal = >> ·era pro mutreta ter tumor? pare!· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1455361061306130435
+INFO:root:--- Retweeted ---
+INFO:root:id = 'era pro mutreta ter tumor pare'
+INFO:root:====================================================
+
+INFO:root:Adding 'era pro mutreta ter tumor pare' to seems
+INFO:root:
+====================================================
+INFO:root:[23:36:55] Author id: crc1966 Name: Cicero Ricardo - 🚩#forabolsonaro🚩
+INFO:root:Original: '@FlorbelaEspanc5 Exato, é o mínimo. 
+E é tão fácil respeitar o próximo, tão mais humano e civilizado.'
+
+INFO:root:pal = >> ·é o mínimo. 
+E· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/crc1966/status/1455363238410039300
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e o minimo e'
+INFO:root:====================================================
+
+INFO:root:Adding 'ai ele ia' to seems
+INFO:root:
+====================================================
+INFO:root:[23:55:00] Author id: SayNoToPutin Name: BAN FOX NEWS ON MILITARY BASES
+INFO:root:Original: 'Today's palindrome:
+Dogma I lived
+Devil I am God'
+
+INFO:root:pal = >> ·Dogma I lived
+Devil I am God· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/SayNoToPutin/status/1455367791557713921
+INFO:root:--- Retweeted ---
+INFO:root:id = 'dogma i liveddevil i am god'
+INFO:root:====================================================
+
+INFO:root:Adding 'dogma i liveddevil i am god' to seems
+INFO:root:
+====================================================
+INFO:root:[00:18:42] Author id: kenji_hayakawa Name: 早川 健治 | Kenji Hayakawa
+INFO:root:Original: 'RT @poitevin: COPING WITH SKEPTICISM
+
+Go far, 
+even if 
+in ever 
+a fog.
+
+#palindrome'
+
+INFO:root:pal = >> ·Go far, 
+even if 
+in ever 
+a fog.· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/kenji_hayakawa/status/1455373756558462976
+INFO:root:--- Retweeted ---
+INFO:root:id = 'go far even if in ever a fog'
+INFO:root:====================================================
+
+INFO:root:Adding 'go far even if in ever a fog' to seems
+INFO:root:
+====================================================
+INFO:root:[00:29:11] Author id: LilloEstay Name: Eduardo Lillo Estay
+INFO:root:Original: 'Las nuevas generaciones no saben no conocen eso de trabajar y estudiar. Nunca han sabido lo q es no tener. Siempre el apa o la mamá lo solucionan'
+
+INFO:root:pal = >> ·o la mamá lo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/LilloEstay/status/1455376393592770561
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o la mama lo'
+INFO:root:====================================================
+
+INFO:root:Adding 'o la mama lo' to seems
+INFO:root:Adding 'leyo hoy el' to seems
+INFO:root:
+====================================================
+INFO:root:[00:49:26] Author id: alaninstituc Name: alanlinares.institucional
+INFO:root:Original: '•
+•
+•
+Urna 13
+•
+•
+•
+•(02/11/2021)•
+•
+•
+•
+À LA LULA LÁ  !
+E, SABE...
+SE, DER REDES
+É BASE...
+À LA LULA LÁ !
+•
+•
+•
+(Yannis Mykonos)
+•
+•
+•
+•
+•
+@alaninstituc
+#palindromo 
+#PALÍNDROMOS 
+•
+•
+•'
+
+INFO:root:pal = >> ·À LA LULA LÁ  !
+E, SABE...
+SE, DER REDES
+É BASE...
+À LA LULA LÁ !
+•· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/alaninstituc/status/1455381487382142981
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a la lula la e sabe se der redese base a la lula la'
+INFO:root:====================================================
+
+INFO:root:Adding 'a la lula la e sabe se der redese base a la lula la' to seems
+INFO:root:
+====================================================
+INFO:root:[00:52:35] Author id: PedroIvoGuedes Name: Pedro Ivo Bifano Guedes
+INFO:root:Original: '@OPalindromista Está só. SOS a TSE.
+#palindromo'
+
+INFO:root:pal = >> ·Está só. SOS a TSE.· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/PedroIvoGuedes/status/1455382283461046280
+INFO:root:--- Retweeted ---
+INFO:root:id = 'esta so sos a tse'
+INFO:root:====================================================
+
+INFO:root:Adding 'esta so sos a tse' to seems
+INFO:root:Adding 'to hu hot' to seems
+INFO:root:
+====================================================
+INFO:root:[01:35:47] Author id: luisdizon Name: Luis Dizon
+INFO:root:Original: '@AllanRuhl You really should. I think your understanding of what happened is very mistaken. Start with Niernberg's boom "Anti-Judaism," as it is a very approachable introduction to the topic.
+https://t.co/XEozXLQVrG'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/luisdizon/status/1455393154383945730
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:Adding 'no creer con' to seems
+INFO:root:Adding 'somos y somos' to seems
+INFO:root:Adding 'a level a' to seems
+INFO:root:
+====================================================
+INFO:root:[05:12:40] Author id: adissonmatheus_ Name: Adisson
+INFO:root:Original: 'Cabeça cheia, situação complicada como nunca esteve, aí tem amigo q ao invés de dar uma forcinha ou mesmo ficar calado, fica enchendo o saco direto. Cansativo demais tudo isso. O jeito é me fechar de novo p ver se tenho pelo menos o mínimo do mínimo de paz.'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/adissonmatheus_/status/1455447734421438465
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[05:23:49] Author id: daview96 Name: David Walker
+INFO:root:Original: 'The answer is it is a wee bit faster as it is a good defence against queue jumpers. https://t.co/RMSEAfxeGG'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/daview96/status/1455450538254950409
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:Adding 'nowiwon' to seems
+INFO:root:Adding 's to lots' to seems
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+INFO:root:
+====================================================
+INFO:root:[08:34:44] Author id: crfluany Name: adrielleᶜʳᶠ
+INFO:root:Original: 'vou construir o melhor castelo empilhando o meus pacos, pra mim o mínimo do mínimo é dar meu máximo 🙇🏻‍♀️'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/crfluany/status/1455498585668210688
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:Adding 'solo no los' to seems
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [604] lines
+INFO:root:White_list file was read. [23] lines
+INFO:root:langs=['en', 'pt', 'es']
+INFO:tweepy.streaming:Stream connected
+INFO:root:Adding 'la pnp al' to seems
+INFO:root:Adding 'ai e feia' to seems
+INFO:root:Adding 'patrao voar tap' to seems
+INFO:root:Adding 's go dogs' to seems
+INFO:root:Adding 'ela mal e' to seems
+INFO:root:
+====================================================
+INFO:root:[00:11:49] Author id: Mcamilatg_ Name: cami
+INFO:root:Original: 'pero no es mi culpa nea, no soy yo… son los demás inseguros de sí mismos q lo quieren hacer sentir a uno así'
+
+INFO:root:pal = >> ·no soy yo… son· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Mcamilatg_/status/1455734410200944640
+INFO:root:--- Retweeted ---
+INFO:root:id = 'no soy yo son'
+INFO:root:====================================================
+
+INFO:root:Adding 'no soy yo son' to seems
+INFO:root:
+====================================================
+INFO:root:[00:57:16] Author id: alaninstituc Name: alanlinares.institucional
+INFO:root:Original: '•
+•
+•
+Fora, Boro !
+•
+•
+•
+•(03/11/2021)•
+•
+•
+•
+À LATIM...
+AÍ, CALA;
+FALÁCIA,
+MITA LÁ !
+•
+•
+•
+(Yannis Mykonos)
+•
+•
+•
+•
+•
+@alaninstituc
+#palindromo 
+#PALÍNDROMOS
+•
+•
+•'
+
+INFO:root:pal = >> ·À LATIM...
+AÍ, CALA;
+FALÁCIA,
+MITA LÁ !
+•· << [1600]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/alaninstituc/status/1455745849464664064
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a latim ai calafalacia mita la'
+INFO:root:====================================================
+
+INFO:root:Adding 'a latim ai calafalacia mita la' to seems
+INFO:root:Adding 'q passa pq' to seems
+INFO:root:
+====================================================
+INFO:root:[01:43:42] Author id: barrbarahellen Name: Bárbara Hellen
+INFO:root:Original: 'Pra mim, o mínimo do mínimo é dar meu máximo!'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/barrbarahellen/status/1455757533893775361
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:Adding 'sao dado as' to seems
+INFO:root:
+====================================================
+INFO:root:[04:14:10] Author id: zeantoniotoledo Name: Divagar é Sempre
+INFO:root:Original: 'RT @Leosfera: saí na live de vilanias! #palindromo'
+
+INFO:root:pal = >> ·saí na live de vilanias!· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/zeantoniotoledo/status/1455795398732288001
+INFO:root:--- Retweeted ---
+INFO:root:id = 'sai na live de vilanias'
+INFO:root:====================================================
+
+INFO:root:Adding 'sai na live de vilanias' to seems
+INFO:root:Adding 'saudade da duas' to seems
+INFO:root:Adding 'no we won' to seems
+INFO:root:Adding 'em o nome' to seems
+INFO:root:
+====================================================
+INFO:root:[06:22:34] Author id: nasyr_auwal Name: Nasir Auwal
+INFO:root:Original: 'Our teeth are considered part of the skeletal system, but are not counted as bones.
+
+Bats are the only mammals that can fly.
+
+Words, phrases or sentences that read the same forwards and backwards are called Palindrome. E.g. no melon, no lemon.
+#5days
+#ParaphraseChallenge'
+
+INFO:root:pal = >> ·no melon, no lemon.· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/nasyr_auwal/status/1455827712715771906
+INFO:root:--- Retweeted ---
+INFO:root:id = 'no melon no lemon'
+INFO:root:====================================================
+
+INFO:root:Adding 'no melon no lemon' to seems
+INFO:root:
+====================================================
+INFO:root:[07:05:00] Author id: patriquestrela1 Name: DRACK 🧛🏼
+INFO:root:Original: 'Pra mim o mínimo do mínimo é dar meu máximo'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/patriquestrela1/status/1455838393049432067
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+INFO:root:
+====================================================
+INFO:root:[08:01:36] Author id: karla_miryan Name: Karla Miryan|@karlamiryan1
+INFO:root:Original: 'Ser humano é tão medíocre que gosta de competir sofrimento. 
+Eu sofri mais que você, fulano sofreu mais. 
+E daí? E o Kiko?
+E se  está vivo talvez não sofreu o suficiente.
+ Eu prefiro sentir orgulho das coisas que conquistei e não pelo que sofri .'
+
+INFO:root:pal = >> ·E o Kiko?
+E· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/karla_miryan/status/1455852636092182534
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e o kikoe'
+INFO:root:====================================================
+
+INFO:root:Adding 'e o kikoe' to seems
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+INFO:root:
+====================================================
+INFO:root:[08:45:27] Author id: Micro_Break Name: MICRO BREAK PODCAST🎙️ | Michael J Maione
+INFO:root:Original: 'Good morning beautiful people and fans and friends of the MICRO BREAK Podcast. Please watch the short video, as it is a call to action. Much Jersey love! Have an amazing day! https://t.co/39EgdJVNZc'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Micro_Break/status/1455863666486747137
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[08:50:26] Author id: cgabizoca Name: a+ fiel 🖤🦅
+INFO:root:Original: 'pra mim o mínimo do mínimo é dar meu máximo'
+
+INFO:root:pal = >> ·o mínimo do mínimo· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/cgabizoca/status/1455864924815626247
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[09:09:16] Author id: bevelyrios Name: bev 🏳️‍⚧️
+INFO:root:Original: '@talksecret2 então, pra karol o que vc disse faz sentido, se ela não expõe ela não acha um erro. mas o que ela fez foi tipo, abuso psicólogico que muitas vezes é até difícil perceber quando vc comete. agora discurso que invalida a existência das pessoas? isso é o mínimo do mínimo, sabe?'
+
+INFO:root:pal = >> ·o mínimo do mínimo,· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/bevelyrios/status/1455869665889116168
+INFO:root:--- Retweeted ---
+INFO:root:id = 'o minimo do minimo'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[09:15:34] Author id: onlinewarlord Name: not luke
+INFO:root:Original: '@DanielBGreene also read berserk instead (I say as I make fun of HxH for never ending)'
+
+INFO:root:pal = >> ·I say as I· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/onlinewarlord/status/1455871249440116737
+INFO:root:--- Retweeted ---
+INFO:root:id = 'i say as i'
+INFO:root:====================================================
+
+INFO:root:Adding 'se aca es' to seems
+INFO:root:Adding 'level a level' to seems
+INFO:root:Adding 'mafagafa gafa gafam' to seems
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [622] lines
+INFO:root:White_list file was read. [23] lines
+INFO:root:langs=['en', 'pt', 'es']
+INFO:tweepy.streaming:Stream connected
+INFO:root:
+====================================================
+INFO:root:[15:12:36] Author id: Leosfera Name: Leosfera
+INFO:root:Original: 'ué, magno tá na tonga, meu? #palindromo'
+
+INFO:root:pal = >> ·ué, magno tá na tonga, meu?· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Leosfera/status/1459947366606422020
+INFO:root:--- Retweeted ---
+INFO:root:id = 'ue magno ta na tonga meu'
+INFO:root:====================================================
+
+INFO:root:Adding 'ue magno ta na tonga meu' to seems
+INFO:root:
+====================================================
+INFO:root:[15:34:18] Author id: John_Rowland_PM Name: John Rowland
+INFO:root:Original: '@mishmashmah Don’t be worried like that. I’m not saying it’s easy as it is a skill but it’s transferable and very manageable. Be positive and take the leap of faith and go get the work you want :).'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/John_Rowland_PM/status/1459952828672364547
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[15:42:37] Author id: Ted246_ Name: David
+INFO:root:Original: '@jarleth_eaton We will agree to disagree on that one lol. Suppose it’s hard to compare as it is a completely different sport now.'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/Ted246_/status/1459954921537740806
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[16:06:37] Author id: itsGregB Name: #1 ELI BROOKS FAN CLUB SUPPORTER | TGIF GREG 🤠
+INFO:root:Original: '@brandon_mn cheesy, even by your own standards. i say, as i walk into the river.'
+
+INFO:root:pal = >> ·i say, as i· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/itsGregB/status/1459960960555307008
+INFO:root:--- Retweeted ---
+INFO:root:id = 'i say as i'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[16:13:57] Author id: jamescrawford Name: James Crawford FPRCA
+INFO:root:Original: 'More observations on The Hut Group’s (£THG) corporate PR as I follow my investment (yes I bought a few shares on the dip):
+
+I doubt this story would have made a NIB in a trade title had they got their media relations shit together at the beginning. 🤦‍♂️ https://t.co/qRK0PjzFnz'
+
+INFO:root:pal = >> ·a NIB in a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/jamescrawford/status/1459962804635672583
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a nib in a'
+INFO:root:====================================================
+
+INFO:root:Adding 'a nib in a' to seems
+INFO:root:
+====================================================
+INFO:root:[16:14:37] Author id: wilson_teixeira Name: WILSON TEIXEIRA
+INFO:root:Original: 'RT @zeantoniotoledo: A Moro amoral, aroma, ó Roma. #palindromo
+💩'
+
+INFO:root:pal = >> ·A Moro amoral, aroma, ó Roma.· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/wilson_teixeira/status/1459962974966276096
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a moro amoral aroma o roma'
+INFO:root:====================================================
+
+INFO:root:Adding 'a moro amoral aroma o roma' to seems
+INFO:root:
+====================================================
+INFO:root:[16:32:07] Author id: OPalindromista Name: O Palindromista
+INFO:root:Original: '@linpjs A ROTA DE RARA REDATORA!
+#palindromo'
+
+INFO:root:pal = >> ·A ROTA DE RARA REDATORA!· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/OPalindromista/status/1459967377307799552
+INFO:root:--- Retweeted ---
+INFO:root:id = 'a rota de rara redatora'
+INFO:root:====================================================
+
+INFO:root:Adding 'a rota de rara redatora' to seems
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [626] lines
+INFO:root:White_list file was read. [23] lines
+INFO:root:langs=['en', 'pt', 'es']
+INFO:tweepy.streaming:Stream connected
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [626] lines
+INFO:root:White_list file was read. [23] lines
+INFO:root:langs=['en', 'en-gb', 'pt', 'es', 'fr', 'de', 'it', 'ja']
+INFO:tweepy.streaming:Stream connected
+INFO:root:
+====================================================
+INFO:root:[16:57:48] Author id: pdromeprompt Name: Jeremy writes palindromes
+INFO:root:Original: 'Who might enjoy a palindrome I wrote about writing and drinking?:
+
+Note, lost ol' pal lets me opt for a bar; oft, poems tell a plot, so let on.'
+
+INFO:root:pal = >> ·Note, lost ol' pal lets me opt for a bar; oft, poems tell a plot, so let on.· << [1800]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/pdromeprompt/status/1459973839375503360
+INFO:root:--- Retweeted ---
+INFO:root:id = 'note lost ol pal lets me opt for a bar oft poems tell a plot so let on'
+INFO:root:====================================================
+
+INFO:root:Adding 'note lost ol pal lets me opt for a bar oft poems tell a plot so let on' to seems
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved
+INFO:root:API created!
+INFO:root:API Authentication OK
+INFO:root:Here we go!
+INFO:root:Seen       file was read. [627] lines
+INFO:root:White_list file was read. [23] lines
+INFO:root:langs=['en', 'en-gb', 'pt', 'es', 'fr', 'de', 'it', 'ja']
+INFO:tweepy.streaming:Stream connected
+ERROR:tweepy.streaming:Stream connection has errored or timed out
+INFO:tweepy.streaming:Stream connected
+INFO:root:
+====================================================
+INFO:root:[17:43:52] Author id: kolourkodemusic Name: RikkiTikkiTavish
+INFO:root:Original: 'Having a passion for music is equally a curse as it is a blessing. Might even be more tbh'
+
+INFO:root:pal = >> ·as it is a· << [1400]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/kolourkodemusic/status/1459985432033128448
+INFO:root:--- Retweeted ---
+INFO:root:id = 'as it is a'
+INFO:root:====================================================
+
+INFO:root:
+====================================================
+INFO:root:[18:11:34] Author id: DeAraujoAndre Name: andre araujo
+INFO:root:Original: 'É, Max, é vaia. Vexame!
+#palindromo'
+
+INFO:root:pal = >> ·É, Max, é vaia. Vexame!· << [1500]
+
+INFO:root:Liked...
+INFO:root:url: https://twitter.com/DeAraujoAndre/status/1459992403687972870
+INFO:root:--- Retweeted ---
+INFO:root:id = 'e max e vaia vexame'
+INFO:root:====================================================
+
+INFO:root:Adding 'e max e vaia vexame' to seems
+INFO:root:Adding 'solar a los' to seems
+INFO:root:Adding 'main i am' to seems
+INFO:tweepy.streaming:Stream disconnected
+INFO:root:
+INFO:root:
+Bye :)
+INFO:root:Seen file was saved

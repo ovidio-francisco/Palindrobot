@@ -1,0 +1,93 @@
+
+O robô busca por segmentos de textos palindrômicos e retuíta o texto original, destacando o palíndromo e adicionando a tag #palindrobot.
+
+Segue algumas considerações sobre esse perfil.
+
+-------------------------------
+
+O algorítimo que encontra os segmentos palindrômicos é relativamente simples. Contudo o Twitter não entrega todos os tweets ao bot. Alguns falam em menos de 1%, pois há um custo computacional altíssimo em processar tudo que é postado, além do custo para a própria plataforma.
+
+-------------------------------
+
+Essa primeira versão está configurada para buscar tweets publicados no ocidente em português, inglês, espanhol e francês. Assim é possível aumentar essa taxa, dado esses alvos, mas ainda sem garantia, mesmo para essa parcela.
+
+
+-------------------------------
+
+Outro desafio é saber o que não retuitar. Para isso, são selecionados palíndromos com pelo menos 4 palavras, e um mínimo de diversidade de letras. Esse filtro é necessário pois todo kkkkkk é um palíndromo. 
+
+-------------------------------
+
+Além disso, via de regra, textos repetidos serão evitados, salvo alguns específicos que frequentemente são criados involuntariamente como "o mínimo do mínimo", "se es o no se es" e "é a mãe", pois são divertidos e geram interação.
+
+-------------------------------
+
+
+O Twitter tem uma comunidade muito ativa de autores de palíndromos. Há também os involuntários que podem criar situações inusitadas.
+
+Como registro, o bot tem uma lista dos retuitados. Há ali algumas pérolas, das quais pretendo periodicamente compilar e publicar por aqui. 
+
+
+-------------------------------
+
+Exemplos são: 
+
+a cara da raça
+e a sua causa é
+e faço o café
+é tão fofo até
+e nem é meme né
+A mãe te ama
+até a mãe ta
+my go to gym
+si, ame-se mais
+A do vovô da
+o meu eu emo
+
+-------------------------------
+
+Alguns tweets possuem palíndromos e subpalíndrmos. Nesse caso, cada partícula palindrômica é retuitada, desde que atenda os critérios de seleção. Esse comportamento pode ser alterado para publicar apenas o maior palíndromo de cada tweet.
+
+
+-------------------------------
+
+A natureza do robô é ser intrometido, pois sem ser chamado, interage e republica texto de qualquer um. Esse comportamento pode ser indesejado. Se for o caso, basta bloquear esse perfil.
+
+-------------------------------
+
+Há ainda o problema de republicar conteúdos nocivos. Já encontrei tweets racistas e misógenos algumas vezes. Nesses casos precisei remover manualmente.
+
+Caso encontre algo que deva ser removido, por favor marque @ovidiojf.
+
+
+-------------------------------
+
+Alguma sugestão ou comentário? Escreva aqui, ou marque o criador @ovidiojf
+
+
+
+
+
+
+
+, é possível aumentar essa taxa, dado 
+Com alguns ajustes, como restringir à regiões e idiomas. 
+
+
+
+
+E a xuxa é
+até na van e ta
+o gol e logo
+a Coca é a Coca
+a cuca q a cuca
+ama ele e ele ama
+meu ex eu em
+N é meme n
+q sdds q
+a cara e a raça
+O papo é o papo
+o seu é so
+
+que, ao encontrar, desperta curiosidade e divulga esse gênero.
+
